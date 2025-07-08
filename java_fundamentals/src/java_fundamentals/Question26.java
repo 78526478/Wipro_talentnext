@@ -1,9 +1,6 @@
 package java_fundamentals;
 import java.util.*;
 public class Question26 {
-	
-
-    
 	    public static void main(String[] args) {
 	        // Step 1: Initialize the array
 	        int[] numbers = {5, 2, 9, 1, 7};
@@ -17,9 +14,4 @@ public class Question26 {
 	            System.out.print(num + " ");
 	        }
 	    }
-	
-
-
-	}
-
-
+	}    
